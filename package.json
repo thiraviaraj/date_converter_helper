@@ -1,0 +1,19 @@
+{
+  "name": "date_converter_helper",
+  "version": "1.0.2",
+  "homepage": "https://github.com/thiraviaraj/date_converter_helper",
+  "description": "Add or sub timezone from a given date",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "JS"
+  ],
+  "author": "thiraviaraj",
+  "license": "ISC"
+}
